@@ -37,116 +37,116 @@
 #****************************************************************************
 #*  Common translation text shared among multiple pages
 #****************************************************************************
-$trans["sharedCancel"]             = "\$text = 'Cancel';";
-$trans["sharedDelete"]             = "\$text = 'Delete';";
+$trans["sharedCancel"]             = "\$text = '取消';";
+$trans["sharedDelete"]             = "\$text = '删除';";
 
 #****************************************************************************
 #*  Translation text for page biblio_view.php
 #****************************************************************************
-$trans["biblioViewTble1Hdr"]       = "\$text = 'Bibliography Information';";
-$trans["biblioViewMaterialType"]   = "\$text = 'Material Type';";
-$trans["biblioViewCollection"]     = "\$text = 'Collection';";
-$trans["biblioViewCallNmbr"]       = "\$text = 'Call Number';";
-$trans["biblioViewTble2Hdr"]       = "\$text = 'Bibliography Copy Information';";
-$trans["biblioViewTble2Col1"]      = "\$text = 'Barcode #';";
-$trans["biblioViewTble2Col2"]      = "\$text = 'Description';";
-$trans["biblioViewTble2Col3"]      = "\$text = 'Status';";
-$trans["biblioViewTble2Col4"]      = "\$text = 'Status Dt';";
-$trans["biblioViewTble2Col5"]      = "\$text = 'Due Back';";
-$trans["biblioViewTble2ColFunc"]   = "\$text = 'Function';";
-$trans["biblioViewTble2Coldel"]    = "\$text = 'del';";
-$trans["biblioViewTble2Coledit"]   = "\$text = 'edit';";
-$trans["biblioViewTble3Hdr"]       = "\$text = 'Additional Bibliographic Information';";
-$trans["biblioViewNoAddInfo"]      = "\$text = 'No additional bibliographic information available.';";
-$trans["biblioViewNoCopies"]       = "\$text = 'No copies have been created.';";
-$trans["biblioViewOpacFlg"]        = "\$text = 'Show in OPAC';";
-$trans["biblioViewNewCopy"]        = "\$text = 'Add New Copy';";
-$trans["biblioViewNeweCopy"]       = "\$text = 'Add New Electronic Copy';";
-$trans["biblioViewYes"]            = "\$text = 'yes';";
-$trans["biblioViewNo"]             = "\$text = 'no';";
+$trans["biblioViewTble1Hdr"]       = "\$text = '著作信息';";
+$trans["biblioViewMaterialType"]   = "\$text = '馆藏类型';";
+$trans["biblioViewCollection"]     = "\$text = '作品集';";
+$trans["biblioViewCallNmbr"]       = "\$text = '编目号码';";
+$trans["biblioViewTble2Hdr"]       = "\$text = '著作副本信息';";
+$trans["biblioViewTble2Col1"]      = "\$text = '条形码 #';";
+$trans["biblioViewTble2Col2"]      = "\$text = '说明';";
+$trans["biblioViewTble2Col3"]      = "\$text = '状态';";
+$trans["biblioViewTble2Col4"]      = "\$text = '当前状态时间';";
+$trans["biblioViewTble2Col5"]      = "\$text = '还书日期';";
+$trans["biblioViewTble2ColFunc"]   = "\$text = '功能';";
+$trans["biblioViewTble2Coldel"]    = "\$text = '删除';";
+$trans["biblioViewTble2Coledit"]   = "\$text = '编辑';";
+$trans["biblioViewTble3Hdr"]       = "\$text = '附加著作信息';";
+$trans["biblioViewNoAddInfo"]      = "\$text = '无附加著作信息。';";
+$trans["biblioViewNoCopies"]       = "\$text = '没有创建副本。';";
+$trans["biblioViewOpacFlg"]        = "\$text = '在OPAC中显示';";
+$trans["biblioViewNewCopy"]        = "\$text = '添加新副本';";
+$trans["biblioViewNeweCopy"]       = "\$text = '添加新电子副本';";
+$trans["biblioViewYes"]            = "\$text = '是';";
+$trans["biblioViewNo"]             = "\$text = '否';";
 
 #****************************************************************************
 #*  Translation text for page biblio_search.php
 #****************************************************************************
-$trans["biblioSearchNoResults"]    = "\$text = 'No results found.';";
-$trans["biblioSearchResults"]      = "\$text = 'Search Results';";
-$trans["biblioSearchResultPages"]  = "\$text = 'Result Pages';";
-$trans["biblioSearchPrev"]         = "\$text = 'prev';";
-$trans["biblioSearchNext"]         = "\$text = 'next';";
+$trans["biblioSearchNoResults"]    = "\$text = '没有找到结果。';";
+$trans["biblioSearchResults"]      = "\$text = '搜索结果';";
+$trans["biblioSearchResultPages"]  = "\$text = '结果页面';";
+$trans["biblioSearchPrev"]         = "\$text = '前一页';";
+$trans["biblioSearchNext"]         = "\$text = '下一页';";
 $trans["biblioSearchResultTxt"]    = "if (%items% == 1) {
-                                        \$text = '%items% result found.';
+                                        \$text = '找到了 %items% 个结果';
                                       } else {
-                                        \$text = '%items% results found';
+                                        \$text = '找到了 %items% 个结果';
                                       }";
-$trans["biblioSearchauthor"]       = "\$text = ' sorted by author';";
-$trans["biblioSearchtitle"]        = "\$text = ' sorted by title';";
-$trans["biblioSearchSortByAuthor"] = "\$text = 'sort by author';";
-$trans["biblioSearchSortByTitle"]  = "\$text = 'sort by title';";
-$trans["biblioSearchTitle"]        = "\$text = 'Title';";
-$trans["biblioSearchAuthor"]       = "\$text = 'Author';";
-$trans["biblioSearchMaterial"]     = "\$text = 'Material';";
-$trans["biblioSearchCollection"]   = "\$text = 'Collection';";
-$trans["biblioSearchCall"]         = "\$text = 'Call Number';";
-$trans["biblioSearchCopyBCode"]    = "\$text = 'Copy Barcode';";
-$trans["biblioSearchCopyStatus"]   = "\$text = 'Status';";
-$trans["biblioSearchNoCopies"]     = "\$text = 'No copies are available.';";
-$trans["biblioSearchHold"]         = "\$text = 'hold';";
-$trans["biblioSearchOutIn"]        = "\$text = 'check out/in';";
-$trans["biblioSearchDetail"]       = "\$text = 'Show detailed Bibliography information';";
-$trans["biblioSearchBCode2Chk"]    = "\$text = 'Barcode to Check Out or Check In Form';";
-$trans["biblioSearchBCode2Hold"]   = "\$text = 'Barcode to Hold Form';";
+$trans["biblioSearchauthor"]       = "\$text = '按作者排序';";
+$trans["biblioSearchtitle"]        = "\$text = '按书名排序';";
+$trans["biblioSearchSortByAuthor"] = "\$text = '按作者排序';";
+$trans["biblioSearchSortByTitle"]  = "\$text = '按书名排序';";
+$trans["biblioSearchTitle"]        = "\$text = '书名';";
+$trans["biblioSearchAuthor"]       = "\$text = '作者';";
+$trans["biblioSearchMaterial"]     = "\$text = '馆藏类型';";
+$trans["biblioSearchCollection"]   = "\$text = '作品集';";
+$trans["biblioSearchCall"]         = "\$text = '编目号码';";
+$trans["biblioSearchCopyBCode"]    = "\$text = '副本条形码';";
+$trans["biblioSearchCopyStatus"]   = "\$text = '状态';";
+$trans["biblioSearchNoCopies"]     = "\$text = '无副本。';";
+$trans["biblioSearchHold"]         = "\$text = '借阅请求';";
+$trans["biblioSearchOutIn"]        = "\$text = '借出/还书';";
+$trans["biblioSearchDetail"]       = "\$text = '显示详细著作信息';";
+$trans["biblioSearchBCode2Chk"]    = "\$text = '输入条形码进行 借出/还书';";
+$trans["biblioSearchBCode2Hold"]   = "\$text = '输入条形码进行 借阅请求';";
 
 #****************************************************************************
 #*  Translation text for page loginform.php
 #****************************************************************************
-$trans["loginFormTbleHdr"]         = "\$text = 'Staff Login';";
-$trans["loginFormUsername"]        = "\$text = 'Username';";
-$trans["loginFormPassword"]        = "\$text = 'Password';";
-$trans["loginFormLogin"]           = "\$text = 'Login';";
+$trans["loginFormTbleHdr"]         = "\$text = '工作人员登录';";
+$trans["loginFormUsername"]        = "\$text = '用户名';";
+$trans["loginFormPassword"]        = "\$text = '密码';";
+$trans["loginFormLogin"]           = "\$text = '登录';";
 
 #****************************************************************************
 #*  Translation text for page hold_del_confirm.php
 #****************************************************************************
-$trans["holdDelConfirmMsg"]        = "\$text = 'Are you sure you want to delete this hold request?';";
+$trans["holdDelConfirmMsg"]        = "\$text = '确认想删除此借阅请求？';";
 
 #****************************************************************************
 #*  Translation text for page hold_del.php
 #****************************************************************************
-$trans["holdDelSuccess"]           = "\$text='Hold request was successfully deleted.';";
+$trans["holdDelSuccess"]           = "\$text='借阅请求成功删除。';";
 
 #****************************************************************************
 #*  Translation text for page help_header.php
 #****************************************************************************
-$trans["helpHeaderTitle"]          = "\$text='OpenBiblio Help';";
-$trans["helpHeaderCloseWin"]       = "\$text='Close Window';";
-$trans["helpHeaderContents"]       = "\$text='Contents';";
-$trans["helpHeaderPrint"]          = "\$text='Print';";
+$trans["helpHeaderTitle"]          = "\$text='OpenBiblio帮助';";
+$trans["helpHeaderCloseWin"]       = "\$text='关闭窗口';";
+$trans["helpHeaderContents"]       = "\$text='内容';";
+$trans["helpHeaderPrint"]          = "\$text='打印';";
 
-$trans["catalogResults"]           = "\$text='Search Results';";
+$trans["catalogResults"]           = "\$text='搜索结果';";
 
 #****************************************************************************
 #*  Translation text for page header.php and header_opac.php
 #****************************************************************************
-$trans["headerTodaysDate"]         = "\$text='today\'s date:';";
+$trans["headerTodaysDate"]         = "\$text='今日是：';";
 $trans["headerDateFormat"]         = "\$text='M d, Y';";
-$trans["headerLibraryHours"]       = "\$text='library hours:';";
-$trans["headerLibraryPhone"]       = "\$text='library phone:';";
-$trans["headerHome"]               = "\$text='Home';";
-$trans["headerCirculation"]        = "\$text='Circulation';";
-$trans["headerCataloging"]         = "\$text='Cataloging';";
-$trans["headerAdmin"]              = "\$text='Admin';";
-$trans["headerReports"]            = "\$text='Reports';";
+$trans["headerLibraryHours"]       = "\$text='图书馆开馆时间：';";
+$trans["headerLibraryPhone"]       = "\$text='图书馆联系电话：';";
+$trans["headerHome"]               = "\$text='首页';";
+$trans["headerCirculation"]        = "\$text='流通';";
+$trans["headerCataloging"]         = "\$text='编目';";
+$trans["headerAdmin"]              = "\$text='管理';";
+$trans["headerReports"]            = "\$text='报告';";
 
 #****************************************************************************
 #*  Translation text for page footer.php
 #****************************************************************************
-$trans["footerLibraryHome"]        = "\$text='Library Home';";
+$trans["footerLibraryHome"]        = "\$text='图书馆首页';";
 $trans["footerOPAC"]               = "\$text='OPAC';";
-$trans["footerHelp"]               = "\$text='Help';";
-$trans["footerPoweredBy"]          = "\$text='Powered by OpenBiblio version';";
-$trans["footerDatabaseVersion"]    = "\$text='database version';";
-$trans["footerCopyright"]          = "\$text='Copyright';";
-$trans["footerUnderThe"]           = "\$text='under the';";
-$trans["footerGPL"]                = "\$text='GNU General Public License';";
+$trans["footerHelp"]               = "\$text='帮助';";
+$trans["footerPoweredBy"]          = "\$text='由 OpenBiblio version 驱动';";
+$trans["footerDatabaseVersion"]    = "\$text='数据库 version';";
+$trans["footerCopyright"]          = "\$text='版权';";
+$trans["footerUnderThe"]           = "\$text='遵循';";
+$trans["footerGPL"]                = "\$text='GNU通用公共许可证（GPL）';";
 
 ?>

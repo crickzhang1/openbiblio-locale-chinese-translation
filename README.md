@@ -23,7 +23,7 @@ Files under `zh_CN`:
 * `zh_CN/navbars.php`: __DONE__
 * `zh_CN/opac.php`: TODO
 * `zh_CN/reports.php`: TODO
-* `zh_CN/shared.php`: TODO
+* `zh_CN/shared.php`: __DONE__
 * `zh_CN/template.php`:TODO
 * `zh_CN/help/barcodes.php`: TODO
 * `zh_CN/help/biblioCopyEdit.php``: TODO
