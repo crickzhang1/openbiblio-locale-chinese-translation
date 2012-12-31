@@ -21,7 +21,7 @@ Files under `zh_CN`:
 * `zh_CN/home.php`: __DONE__
 * `zh_CN/metadata.php`: TODO
 * `zh_CN/navbars.php`: __DONE__
-* `zh_CN/opac.php`: TODO
+* `zh_CN/opac.php`: __DONE__
 * `zh_CN/reports.php`: TODO
 * `zh_CN/shared.php`: __DONE__
 * `zh_CN/template.php`:TODO

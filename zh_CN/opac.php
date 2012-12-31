@@ -38,16 +38,15 @@
 #****************************************************************************
 #*  Translation text for page index.php
 #****************************************************************************
-$trans["opac_Header"]        = "\$text='Online Public Access Catalog (OPAC)';";
+$trans["opac_Header"]        = "\$text='联机公共检索目录（OPAC）';";
 $trans["opac_WelcomeMsg"]    = "\$text=
-  'Welcome to our library\'s online public access catalog.  Search our catalog
-   to view bibliography information on holdings we have in our library.';";
-$trans["opac_SearchTitle"]   = "\$text='Search Bibliography by Search Phrase:';";
-$trans["opac_Keyword"]       = "\$text='Keyword';";
-$trans["opac_Title"]         = "\$text='Title';";
-$trans["opac_Author"]        = "\$text='Author';";
-$trans["opac_Subject"]       = "\$text='Subject';";
-$trans["opac_Callno"]        = "\$text='Call Number';";
-$trans["opac_Search"]        = "\$text='Search';";
+  '欢迎来到本馆的联机公共检索目录。通过搜索目录可以查看本馆馆藏著作信息。';";
+$trans["opac_SearchTitle"]   = "\$text='通过短语搜索著作：';";
+$trans["opac_Keyword"]       = "\$text='关键词';";
+$trans["opac_Title"]         = "\$text='书名';";
+$trans["opac_Author"]        = "\$text='作者';";
+$trans["opac_Subject"]       = "\$text='主题';";
+$trans["opac_Callno"]        = "\$text='编目号码';";
+$trans["opac_Search"]        = "\$text='搜索';";
 
 ?>
