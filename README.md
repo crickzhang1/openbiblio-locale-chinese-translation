@@ -17,5 +17,5 @@ the latest release (0.7.1) of OpenBiblio.
 
 ## License
 
-The original OpenBiblio software is licensed under GPLv2+.
-The translation work is licensed under GPLv2+.
+* The original OpenBiblio software is licensed under GPLv2+.
+* This translation work is licensed under GPLv2+.
