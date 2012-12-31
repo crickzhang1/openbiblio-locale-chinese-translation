@@ -46,7 +46,7 @@ $trans["indexDesc"]          = "\$text='说明';";
 $trans["indexCirc"]          = "\$text='流通';";
 $trans["indexCircDesc1"]     = "\$text='利用此标签管理会员记录。';";
 $trans["indexCircDesc2"]     = "\$text='会员管理（添加、搜索、编辑、删除）';";
-$trans["indexCircDesc3"]     = "\$text='会员书目借阅、当前借阅状态、账户和借阅历史）';";
+$trans["indexCircDesc3"]     = "\$text='会员书目借阅、当前借阅状态、帐目和借阅历史）';";
 $trans["indexCircDesc4"]     = "\$text='还书和书架车列表';";
 //$trans["indexCircDesc5"]     = "\$text='会员超期罚款';";
 $trans["indexCat"]           = "\$text='编目';";
