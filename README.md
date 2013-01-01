@@ -32,7 +32,7 @@ Files under `zh_CN`:
    sometimes very long lines. I don't find the souce of the improper, but
    if it is found, the long lines are better splited into short ones.   
 * `zh_CN/help/barcodes.php`: __DONE__
-* `zh_CN/help/biblioCopyEdit.php``: TODO
+* `zh_CN/help/biblioCopyEdit.php``: __DONE__
 * `zh_CN/help/biblioEdit.php`: TODO
 * `zh_CN/help/biblioSearch.php`: __DONE__
 * `zh_CN/help/checkin.php`: TODO
