@@ -12,7 +12,7 @@
     </ol>
   <li>流通页面区域帮助</li>
     <ol type="a">
-      <li><a href="../shared/help.php?page=circulation">会员搜索页面（流通页面主页）</a></li>
+      <li><a href="../shared/help.php?page=circulation">会员搜索页面（流通功能区首页）</a></li>
       <li><a href="../shared/help.php?page=memberView">会员信息页面</a></li>
       <li><a href="../shared/help.php?page=opacLookup">条形码查询页面</a></li>
       <li><a href="../shared/help.php?page=checkin">还书页面</a></li>

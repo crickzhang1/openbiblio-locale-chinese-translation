@@ -1,65 +1,49 @@
-<h1>Bibliography New and Edit Pages:</h1>
-The bibliography new and edit (Edit-Basic) page fields are based on 
-the <a href="javascript:popSecondaryLarge('http://www.loc.gov/marc')">MARC 21</a> standard format.  Only
-a very small subset of the several hundred MARC fields are included on
-this basic edit page to make it easy to add bibliographies.  Once a bibliography
-has been added you can then add any of the MARC 21 fields using the Edit-MARC page.
+<h1>著作添加和编辑页面：</h1>
+著作添加和编辑（编辑-基本信息）页面中的字段基于<a href="javascript:popSecondaryLarge('http://www.loc.gov/marc')">MARC 21</a>标准格式。基本信息编辑页面中仅包含了几百个MARC字段的一个很小的子集，已简化添加著作过程。一旦一本著作被添加后，您可以使用编辑-MARC页面来任意添加MARC 21字段。
 <br><br>
-Once you have added a new bibliography you will need to add copies to this
-bibliography before the bibliography is available for checkout.
+添加新的著作后，在著作可以借出前，您将需要加入此著作的副本信息。
 <br><br>
-Help Sub Sections:
+帮助小节：
 <ul>
-  <li><a href="#desc">Field Descriptions</a></li>
-  <li><a href="#samp">Sample Data</a></li>
+  <li><a href="#desc">字段说明</a></li>
+  <li><a href="#samp">示例数据</a></li>
 </ul>
 <br><br>
-<a name="desc">
-The following table provides descriptions for the field located on the Edit-Basic
-page.</a>
+<a name="desc">下表给出了“编辑-基本信息”页面中的各字段的说明。</a>
 <br><br>
 <table class="primary">
-  <tr><th>Field</th><th>Description</th></tr>
+  <tr><th>字段</th><th>说明</th></tr>
   <tr>
-    <td class="primary" valign="top">Type of Material</td>
-    <td class="primary" valign="top">Physical type of the material.</td>
+    <td class="primary" valign="top">馆藏类型</td>
+    <td class="primary" valign="top">馆藏材料的物理型式。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Collection</td>
-    <td class="primary" valign="top">Collection where the material is shelved.</td>
+    <td class="primary" valign="top">作品集</td>
+    <td class="primary" valign="top">作品集是馆藏材料的上架位置。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Call Number</td>
-    <td class="primary" valign="top">Multi part call number of the bibliography used for 
-      finding the library material in a collection.  The call number is usually clearly marked
-      on the outside of the material.
-    </td>
+    <td class="primary" valign="top">编目号码</td>
+    <td class="primary" valign="top">著作的多段编目号码：用于在作品集中查找馆藏材料。编目号码通常清晰地标注于作品的外表面。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Show in OPAC</td>
-    <td class="primary" valign="top">Check this if you wish to have this library item show up on OPAC (online public access catalog) searches.</td>
+    <td class="primary" valign="top">在OPAC中显示</td>
+    <td class="primary" valign="top">如果您希望此馆藏在OPAC（联机公共检索目录）搜索中显示的话，选中此选项。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Title</td>
-    <td class="primary" valign="top">The title of a work.</td>
+    <td class="primary" valign="top">书名</td>
+    <td class="primary" valign="top">作品的名称</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Remainder of title</td>
-    <td class="primary" valign="top">Secondary title of a work.</td>
+    <td class="primary" valign="top">副书名</td>
+    <td class="primary" valign="top">作品的第二名称。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Statement of responsibility, etc</td>
-    <td class="primary" valign="top">Person, persons or organization reponsible for producing a work, such as an author or list of author(s), editors, contributors, illustrator(s) etc.</td>
+    <td class="primary" valign="top">责任声明等</td>
+    <td class="primary" valign="top">负责制作作品的个人，人们或组织，如某作者或某些作者、编辑、贡献者、画插图者等。</td>
   </tr>
   <tr>
-    <td class="primary" valign="top">Personal name:</td>
-    <td class="primary" valign="top">A personal name used as a main entry in a bibliographic record.
-      This is usually only one of the author's name in the format last,first.  This field
-      is shown in a bibliography searches.  The search results can also be sorted by this field
-      so you will want to be sure to code the last name first.</td>
+    <td class="primary" valign="top">人名：</td>
+    <td class="primary" valign="top">用作著作记录的主著录的一个人的名字。通常是作者之一的名字，格式为：姓，名字。此字段显示在著作搜索中。搜索结果也可以利用这一字段进行排序，因此您会想确保把姓放在前面。</td>
   </tr>
-  
-
-
 </table>
 

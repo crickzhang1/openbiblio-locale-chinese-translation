@@ -62,7 +62,7 @@ $trans["mbrEditForm"]             = "\$text='编辑';";
 $trans["mbrFldsHeader"]           = "\$text='会员：';";
 $trans["mbrFldsCardNmbr"]         = "\$text='卡号：';";
 $trans["mbrFldsLastName"]         = "\$text='姓：';";
-$trans["mbrFldsFirstName"]        = "\$text='名：';";
+$trans["mbrFldsFirstName"]        = "\$text='名字：';";
 $trans["mbrFldsAddr1"]            = "\$text='地址行1：';";
 $trans["mbrFldsAddr2"]            = "\$text='地址行2：';";
 $trans["mbrFldsCity"]             = "\$text='城市：';";

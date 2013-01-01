@@ -12,7 +12,7 @@ the latest release (0.7.1) of OpenBiblio.
 
 ### Progress of translation
 
-Files under `zh_CN`:
+The following list shows the progress for translations of each file under locale `zh_CN`:
 
 * `zh_CN/admin.php`: __DONE__
 * `zh_CN/cataloging.php`: __DONE__
@@ -33,15 +33,15 @@ Files under `zh_CN`:
    if it is found, the long lines are better splited into short ones.   
 * `zh_CN/help/barcodes.php`: __DONE__
 * `zh_CN/help/biblioCopyEdit.php``: __DONE__
-* `zh_CN/help/biblioEdit.php`: TODO
+* `zh_CN/help/biblioEdit.php`: __DONE__
 * `zh_CN/help/biblioSearch.php`: __DONE__
-* `zh_CN/help/checkin.php`: TODO
-* `zh_CN/help/circulation.php`: TODO
+* `zh_CN/help/checkin.php`: __DONE__
+* `zh_CN/help/circulation.php`: __DONE__
 * `zh_CN/help/contents.php`: __DONE__
-* `zh_CN/help/memberView.php`: TODO
+* `zh_CN/help/memberView.php`: __DONE__
 * `zh_CN/help/opacLookup.php`: __DONE__
 * `zh_CN/help/opac.php`: __DONE__
-* `zh_CN/help/status.php`: TODO
+* `zh_CN/help/status.php`: __DONE__
 * `zh_CN/sql/0.7.1/domain/biblio_status_dm.sql`: TODO
 * `zh_CN/sql/0.7.1/domain/checkout_privs.sql`: TODO
 * `zh_CN/sql/0.7.1/domain/collection_dm.sql`: TODO
@@ -66,7 +66,7 @@ Files under `zh_CN`:
 * OpenBiblio official: http://obiblio.sourceforge.net/
 * OpenBiblio development: http://bitbucket.org/mstetson/obiblio/
 
-## License
+## Licenses
 
 * The original OpenBiblio software is licensed under GPLv2+.
 * This translation work is licensed under GPLv2+.
