@@ -63,6 +63,6 @@ $trans["indexAdminDesc6"]    = "\$text='图书馆主题编辑器';";
 $trans["indexReports"]       = "\$text='报告';";
 $trans["indexReportsDesc1"]  = "\$text='利用此标签生成关于图书馆各类数据统计的报告。';";
 $trans["indexReportsDesc2"]  = "\$text='报告';";
-$trans["indexReportsDesc3"]  = "\$text='标识签（Labels）';";
+$trans["indexReportsDesc3"]  = "\$text='标识签';";
 
 ?>

@@ -22,7 +22,8 @@ Files under `zh_CN`:
 * `zh_CN/metadata.php`: __DONE__
 * `zh_CN/navbars.php`: __DONE__
 * `zh_CN/opac.php`: __DONE__
-* `zh_CN/reports.php`: TODO
+* `zh_CN/reports.php`: __DONE__,
+  except a few sorting criteria logical operators not translated.
 * `zh_CN/shared.php`: __DONE__
 * `zh_CN/template.php`: __DONE__
 * `zh_CN/help/barcodes.php`: TODO
