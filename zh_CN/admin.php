@@ -183,8 +183,8 @@ $trans["admin_settingsLibimageurl"]                 = "\$text = '图书馆图片
 $trans["admin_settingsOnlyshowimginheader"]                 = "\$text = '仅在页首x显示图片：';";
 $trans["admin_settingsLibhours"]                 = "\$text = '图书馆开馆时间：';";
 $trans["admin_settingsLibphone"]                 = "\$text = '图书馆电话：';";
-$trans["admin_settingsLibURL"]                 = "\$text = '图书馆网址（URL）：';";
-$trans["admin_settingsOPACURL"]                 = "\$text = 'OPAC URL:';";
+$trans["admin_settingsLibURL"]                 = "\$text = '图书馆网址：';";
+$trans["admin_settingsOPACURL"]                 = "\$text = '联机公共检索目录（OPAC）:';";
 $trans["admin_settingsSessionTimeout"]                 = "\$text = '登录会话超时：';";
 $trans["admin_settingsMinutes"]                 = "\$text = '分钟';";
 $trans["admin_settingsSearchResults"]                 = "\$text = '搜索结果：';";

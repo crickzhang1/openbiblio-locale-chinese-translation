@@ -15,16 +15,16 @@ the latest release (0.7.1) of OpenBiblio.
 Files under `zh_CN`:
 
 * `zh_CN/admin.php`: __DONE__
-* `zh_CN/cataloging.php`: TODO
+* `zh_CN/cataloging.php`: __DONE__
 * `zh_CN/circulation.php`: TODO
 * `zh_CN/classes.php`: TODO
 * `zh_CN/home.php`: __DONE__
-* `zh_CN/metadata.php`: TODO
+* `zh_CN/metadata.php`: __DONE__
 * `zh_CN/navbars.php`: __DONE__
 * `zh_CN/opac.php`: __DONE__
 * `zh_CN/reports.php`: TODO
 * `zh_CN/shared.php`: __DONE__
-* `zh_CN/template.php`:TODO
+* `zh_CN/template.php`: __DONE__
 * `zh_CN/help/barcodes.php`: TODO
 * `zh_CN/help/biblioCopyEdit.php``: TODO
 * `zh_CN/help/biblioEdit.php`: TODO
