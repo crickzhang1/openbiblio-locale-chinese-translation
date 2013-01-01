@@ -93,8 +93,8 @@ $trans["biblioSearchNoCopies"]     = "\$text = '无副本。';";
 $trans["biblioSearchHold"]         = "\$text = '借阅请求';";
 $trans["biblioSearchOutIn"]        = "\$text = '借出/还书';";
 $trans["biblioSearchDetail"]       = "\$text = '显示详细著作信息';";
-$trans["biblioSearchBCode2Chk"]    = "\$text = '输入条形码进行 借出/还书';";
-$trans["biblioSearchBCode2Hold"]   = "\$text = '输入条形码进行 借阅请求';";
+$trans["biblioSearchBCode2Chk"]    = "\$text = '返回条形码到借出/还书表格';";
+$trans["biblioSearchBCode2Hold"]   = "\$text = '返回条形码到借阅请求表格';";
 
 #****************************************************************************
 #*  Translation text for page loginform.php
@@ -119,7 +119,7 @@ $trans["holdDelSuccess"]           = "\$text='借阅请求成功删除。';";
 #****************************************************************************
 $trans["helpHeaderTitle"]          = "\$text='OpenBiblio帮助';";
 $trans["helpHeaderCloseWin"]       = "\$text='关闭窗口';";
-$trans["helpHeaderContents"]       = "\$text='内容';";
+$trans["helpHeaderContents"]       = "\$text='目录';";
 $trans["helpHeaderPrint"]          = "\$text='打印';";
 
 $trans["catalogResults"]           = "\$text='搜索结果';";
@@ -141,7 +141,7 @@ $trans["headerReports"]            = "\$text='报告';";
 #*  Translation text for page footer.php
 #****************************************************************************
 $trans["footerLibraryHome"]        = "\$text='图书馆首页';";
-$trans["footerOPAC"]               = "\$text='OPAC';";
+$trans["footerOPAC"]               = "\$text='联机公共检索目录（OPAC）';";
 $trans["footerHelp"]               = "\$text='帮助';";
 $trans["footerPoweredBy"]          = "\$text='架构：OpenBiblio';";
 $trans["footerDatabaseVersion"]    = "\$text='数据库';";

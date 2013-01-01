@@ -26,16 +26,21 @@ Files under `zh_CN`:
   except a few sorting criteria logical operators not translated.
 * `zh_CN/shared.php`: __DONE__
 * `zh_CN/template.php`: __DONE__
-* `zh_CN/help/barcodes.php`: TODO
+* `zh_CN/help`: Because the help files contain hard-coded html, which display
+   unwanted spaces at linebreaks in a paragraph in Chinese that are not
+   neccessary, content of each translated paragrah is all in one line, making
+   sometimes very long lines. I don't find the souce of the improper, but
+   if it is found, the long lines are better splited into short ones.   
+* `zh_CN/help/barcodes.php`: __DONE__
 * `zh_CN/help/biblioCopyEdit.php``: TODO
 * `zh_CN/help/biblioEdit.php`: TODO
-* `zh_CN/help/biblioSearch.php`: TODO
+* `zh_CN/help/biblioSearch.php`: __DONE__
 * `zh_CN/help/checkin.php`: TODO
 * `zh_CN/help/circulation.php`: TODO
-* `zh_CN/help/contents.php`: TODO
+* `zh_CN/help/contents.php`: __DONE__
 * `zh_CN/help/memberView.php`: TODO
-* `zh_CN/help/opacLookup.php`: TODO
-* `zh_CN/help/opac.php`: TODO
+* `zh_CN/help/opacLookup.php`: __DONE__
+* `zh_CN/help/opac.php`: __DONE__
 * `zh_CN/help/status.php`: TODO
 * `zh_CN/sql/0.7.1/domain/biblio_status_dm.sql`: TODO
 * `zh_CN/sql/0.7.1/domain/checkout_privs.sql`: TODO
