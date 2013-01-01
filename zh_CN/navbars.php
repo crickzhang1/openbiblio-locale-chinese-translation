@@ -75,7 +75,7 @@ $trans["catalogCopyNew"]           = "\$text = '新增副本';";
 $trans["catalogCopyEdit"]          = "\$text = '编辑副本';";
 $trans["catalogHolds"]             = "\$text = '借阅请求';";
 $trans["catalogDelete"]            = "\$text = '删除';";
-$trans["catalogBibNewLike"]        = "\$text = '添加“喜欢”';";
+$trans["catalogBibNewLike"]        = "\$text = '添加喜欢作品';";
 $trans["catalogBibNew"]            = "\$text = '添加著作';";
 $trans["Upload Marc Data"]         = "\$text = '上传Marc数据';";
 

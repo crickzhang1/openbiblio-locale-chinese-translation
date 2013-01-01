@@ -37,233 +37,233 @@
 #****************************************************************************
 #*  Common translation text shared among multiple pages
 #****************************************************************************
-$trans["circCancel"]              = "\$text = 'Cancel';";
-$trans["circDelete"]              = "\$text = 'Delete';";
-$trans["circLogout"]              = "\$text = 'Logout';";
-$trans["circAdd"]                 = "\$text = 'Add';";
-$trans["mbrDupBarcode"]           = "\$text = 'Barcode number, %barcode%, is currently in use.';";
+$trans["circCancel"]              = "\$text = '取消';";
+$trans["circDelete"]              = "\$text = '删除';";
+$trans["circLogout"]              = "\$text = '退出';";
+$trans["circAdd"]                 = "\$text = '添加';";
+$trans["mbrDupBarcode"]           = "\$text = '条形码 %barcode% 已被使用。';";
 
 #****************************************************************************
 #*  Translation text for page index.php
 #****************************************************************************
-$trans["indexHeading"]            = "\$text='Circulation';";
-$trans["indexCardHdr"]            = "\$text='Search Member by Card Number:';";
-$trans["indexCard"]               = "\$text='Card Number:';";
-$trans["indexSearch"]             = "\$text='Search';";
-$trans["indexNameHdr"]            = "\$text='Search Member by Last Name:';";
-$trans["indexName"]               = "\$text='Last name start with:';";
+$trans["indexHeading"]            = "\$text='流通';";
+$trans["indexCardHdr"]            = "\$text='按卡号搜索会员：';";
+$trans["indexCard"]               = "\$text='卡号：';";
+$trans["indexSearch"]             = "\$text='搜索';";
+$trans["indexNameHdr"]            = "\$text='按姓搜索会员：';";
+$trans["indexName"]               = "\$text='姓的起始：';";
 
 #****************************************************************************
 #*  Translation text for page mbr_new_form.php, mbr_edit_form.php and mbr_fields.php
 #****************************************************************************
-$trans["Mailing Address:"] = "\$text='Mailing Address:';";
-$trans["mbrNewForm"]              = "\$text='Add New';";
-$trans["mbrEditForm"]             = "\$text='Edit';";
-$trans["mbrFldsHeader"]           = "\$text='Member:';";
-$trans["mbrFldsCardNmbr"]         = "\$text='Card Number:';";
-$trans["mbrFldsLastName"]         = "\$text='Last Name:';";
-$trans["mbrFldsFirstName"]        = "\$text='First Name:';";
-$trans["mbrFldsAddr1"]            = "\$text='Address Line 1:';";
-$trans["mbrFldsAddr2"]            = "\$text='Address Line 2:';";
-$trans["mbrFldsCity"]             = "\$text='City:';";
-$trans["mbrFldsStateZip"]         = "\$text='State, Zip:';";
-$trans["mbrFldsHomePhone"]        = "\$text='Home Phone:';";
-$trans["mbrFldsWorkPhone"]        = "\$text='Work Phone:';";
-$trans["mbrFldsEmail"]            = "\$text='Email Address:';";
-$trans["mbrFldsClassify"]         = "\$text='Classification:';";
-$trans["mbrFldsGrade"]            = "\$text='School Grade:';";
-$trans["mbrFldsTeacher"]          = "\$text='School Teacher:';";
-$trans["mbrFldsSubmit"]           = "\$text='Submit';";
-$trans["mbrFldsCancel"]           = "\$text='Cancel';";
-$trans["mbrsearchResult"]         = "\$text='Result Pages: ';";
-$trans["mbrsearchprev"]           = "\$text='prev';";
-$trans["mbrsearchnext"]           = "\$text='next';";
-$trans["mbrsearchNoResults"]      = "\$text='No results found.';";
-$trans["mbrsearchFoundResults"]   = "\$text=' results found.';";
-$trans["mbrsearchSearchResults"]  = "\$text='Search Results:';";
-$trans["mbrsearchCardNumber"]     = "\$text='Card Number:';";
-$trans["mbrsearchClassification"] = "\$text='Classification:';";
+$trans["Mailing Address:"] = "\$text='邮寄地址：';";
+$trans["mbrNewForm"]              = "\$text='新加';";
+$trans["mbrEditForm"]             = "\$text='编辑';";
+$trans["mbrFldsHeader"]           = "\$text='会员：';";
+$trans["mbrFldsCardNmbr"]         = "\$text='卡号：';";
+$trans["mbrFldsLastName"]         = "\$text='姓：';";
+$trans["mbrFldsFirstName"]        = "\$text='名：';";
+$trans["mbrFldsAddr1"]            = "\$text='地址行1：';";
+$trans["mbrFldsAddr2"]            = "\$text='地址行2：';";
+$trans["mbrFldsCity"]             = "\$text='城市：';";
+$trans["mbrFldsStateZip"]         = "\$text='省，邮编：';";
+$trans["mbrFldsHomePhone"]        = "\$text='家庭电话：';";
+$trans["mbrFldsWorkPhone"]        = "\$text='工作电话：';";
+$trans["mbrFldsEmail"]            = "\$text='电子邮箱地址：';";
+$trans["mbrFldsClassify"]         = "\$text='会员类别：';";
+$trans["mbrFldsGrade"]            = "\$text='年级：';";
+$trans["mbrFldsTeacher"]          = "\$text='教师：';";
+$trans["mbrFldsSubmit"]           = "\$text='提交';";
+$trans["mbrFldsCancel"]           = "\$text='取消';";
+$trans["mbrsearchResult"]         = "\$text='结果页面： ';";
+$trans["mbrsearchprev"]           = "\$text='前一页';";
+$trans["mbrsearchnext"]           = "\$text='下一页';";
+$trans["mbrsearchNoResults"]      = "\$text='无法找到结果。';";
+$trans["mbrsearchFoundResults"]   = "\$text='结果。';";
+$trans["mbrsearchSearchResults"]  = "\$text='搜索结果：';";
+$trans["mbrsearchCardNumber"]     = "\$text='卡号：';";
+$trans["mbrsearchClassification"] = "\$text='会员类别：';";
 
 #****************************************************************************
 #*  Translation text for page mbr_new.php
 #****************************************************************************
-$trans["mbrNewSuccess"]           = "\$text='Member has been successfully added.';";
+$trans["mbrNewSuccess"]           = "\$text='会员已成功添加。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_edit.php
 #****************************************************************************
-$trans["mbrEditSuccess"]          = "\$text='Member has been successfully updated.';";
+$trans["mbrEditSuccess"]          = "\$text='会员已成功更新。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_view.php
 #****************************************************************************
-$trans["mbrViewHead1"]            = "\$text='Member Information:';";
-$trans["mbrViewName"]             = "\$text='Name:';";
-$trans["mbrViewAddr"]             = "\$text='Address:';";
-$trans["mbrViewCardNmbr"]         = "\$text='Card Number:';";
-$trans["mbrViewClassify"]         = "\$text='Classification:';";
-$trans["mbrViewPhone"]            = "\$text='Phone:';";
-$trans["mbrViewPhoneHome"]        = "\$text='H:';";
-$trans["mbrViewPhoneWork"]        = "\$text='W:';";
-$trans["mbrViewEmail"]            = "\$text='Email Address:';";
-$trans["mbrViewGrade"]            = "\$text='School Grade:';";
-$trans["mbrViewTeacher"]          = "\$text='School Teacher:';";
-$trans["mbrViewHead2"]            = "\$text='Checkout Stats:';";
-$trans["mbrViewStatColHdr1"]      = "\$text='Material';";
-$trans["mbrViewStatColHdr2"]      = "\$text='Count';";
-$trans["mbrViewStatColHdr3"]      = "\$text='Limits';";
-$trans["mbrViewStatColHdr4"]      = "\$text='Checkout';";
-$trans["mbrViewStatColHdr5"]      = "\$text='Renewal';";
-$trans["mbrViewHead3"]            = "\$text='Bibliography Check Out:';";
-$trans["mbrViewBarcode"]          = "\$text='Barcode Number:';";
-$trans["mbrViewCheckOut"]         = "\$text='Check Out';";
-$trans["mbrViewHead4"]            = "\$text='Bibliographies Currently Checked Out:';";
-$trans["mbrViewOutHdr1"]          = "\$text='Checked Out';";
-$trans["mbrViewOutHdr2"]          = "\$text='Material';";
-$trans["mbrViewOutHdr3"]          = "\$text='Barcode';";
-$trans["mbrViewOutHdr4"]          = "\$text='Title';";
-$trans["mbrViewOutHdr5"]          = "\$text='Author';";
-$trans["mbrViewOutHdr6"]          = "\$text='Due Back';";
-$trans["mbrViewOutHdr7"]          = "\$text='Days Late';";
-$trans["mbrViewOutHdr8"]          = "\$text='Renewal';";
+$trans["mbrViewHead1"]            = "\$text='会员信息：';";
+$trans["mbrViewName"]             = "\$text='名字：';";
+$trans["mbrViewAddr"]             = "\$text='地址：';";
+$trans["mbrViewCardNmbr"]         = "\$text='卡号：';";
+$trans["mbrViewClassify"]         = "\$text='会员类型：';";
+$trans["mbrViewPhone"]            = "\$text='电话：';";
+$trans["mbrViewPhoneHome"]        = "\$text='家庭：';";
+$trans["mbrViewPhoneWork"]        = "\$text='工作：';";
+$trans["mbrViewEmail"]            = "\$text='电子邮箱地址：';";
+$trans["mbrViewGrade"]            = "\$text='学校年级：';";
+$trans["mbrViewTeacher"]          = "\$text='学校教师：';";
+$trans["mbrViewHead2"]            = "\$text='借书状态：';";
+$trans["mbrViewStatColHdr1"]      = "\$text='馆藏类型';";
+$trans["mbrViewStatColHdr2"]      = "\$text='数量';";
+$trans["mbrViewStatColHdr3"]      = "\$text='数量限制';";
+$trans["mbrViewStatColHdr4"]      = "\$text='借出';";
+$trans["mbrViewStatColHdr5"]      = "\$text='续借';";
+$trans["mbrViewHead3"]            = "\$text='借出著作：';";
+$trans["mbrViewBarcode"]          = "\$text='条形码：';";
+$trans["mbrViewCheckOut"]         = "\$text='借出';";
+$trans["mbrViewHead4"]            = "\$text='当前借出著作：';";
+$trans["mbrViewOutHdr1"]          = "\$text='借出';";
+$trans["mbrViewOutHdr2"]          = "\$text='馆藏类型';";
+$trans["mbrViewOutHdr3"]          = "\$text='条形码';";
+$trans["mbrViewOutHdr4"]          = "\$text='书名';";
+$trans["mbrViewOutHdr5"]          = "\$text='作者';";
+$trans["mbrViewOutHdr6"]          = "\$text='还书日期';";
+$trans["mbrViewOutHdr7"]          = "\$text='超期天数';";
+$trans["mbrViewOutHdr8"]          = "\$text='续借';";
 $trans["mbrViewOutHdr9"]          = "\$text='time/s';";
-$trans["mbrViewNoCheckouts"]      = "\$text='No bibliographies are currently checked out.';";
-$trans["mbrViewHead5"]            = "\$text='Place Hold:';";
-$trans["mbrViewHead6"]            = "\$text='Bibliographies Currently On Hold:';";
-$trans["mbrViewPlaceHold"]        = "\$text='Place Hold';";
-$trans["mbrViewHoldHdr1"]         = "\$text='Function';";
-$trans["mbrViewHoldHdr2"]         = "\$text='Placed On Hold';";
-$trans["mbrViewHoldHdr3"]         = "\$text='Material';";
-$trans["mbrViewHoldHdr4"]         = "\$text='Barcode';";
-$trans["mbrViewHoldHdr5"]         = "\$text='Title';";
-$trans["mbrViewHoldHdr6"]         = "\$text='Author';";
-$trans["mbrViewHoldHdr7"]         = "\$text='Status';";
-$trans["mbrViewHoldHdr8"]         = "\$text='Due Back';";
-$trans["mbrViewNoHolds"]          = "\$text='No bibliographies are currently on hold.';";
-$trans["mbrViewBalMsg"]           = "\$text='Note: Member has an outstanding account balance of %bal%.';";
-$trans["mbrPrintCheckouts"]	  = "\$text='print checkouts';";
-$trans["mbrViewDel"]              = "\$text='del';";
+$trans["mbrViewNoCheckouts"]      = "\$text='当前无著作借出。';";
+$trans["mbrViewHead5"]            = "\$text='定位借阅请求著作：';";
+$trans["mbrViewHead6"]            = "\$text='借阅请求已保留著作：';";
+$trans["mbrViewPlaceHold"]        = "\$text='定位借阅请求著作';";
+$trans["mbrViewHoldHdr1"]         = "\$text='功能';";
+$trans["mbrViewHoldHdr2"]         = "\$text='已定位借阅请求著作';";
+$trans["mbrViewHoldHdr3"]         = "\$text='馆藏类型';";
+$trans["mbrViewHoldHdr4"]         = "\$text='条形码';";
+$trans["mbrViewHoldHdr5"]         = "\$text='书名';";
+$trans["mbrViewHoldHdr6"]         = "\$text='作者';";
+$trans["mbrViewHoldHdr7"]         = "\$text='状态';";
+$trans["mbrViewHoldHdr8"]         = "\$text='还书日期';";
+$trans["mbrViewNoHolds"]          = "\$text='当前没有已保留借阅请求著作。';";
+$trans["mbrViewBalMsg"]           = "\$text='注意：会员帐目未结平情况：%bal%。';";
+$trans["mbrPrintCheckouts"]	  = "\$text='打印借出情况';";
+$trans["mbrViewDel"]              = "\$text='删除';";
 
 #****************************************************************************
 #*  Translation text for page checkout.php
 #****************************************************************************
-$trans["checkoutBalErr"]          = "\$text='Member must pay outstanding account balance before checking out.';";
-$trans["checkoutErr1"]            = "\$text='Barcode number must be all alphanumeric.';";
-$trans["checkoutErr2"]            = "\$text='No bibliography was found with that barcode number.';";
-$trans["checkoutErr3"]            = "\$text='Bibliography with barcode number %barcode% is already checked out.';";
-$trans["checkoutErr4"]            = "\$text='Bibliography with barcode number %barcode% is not available for checkout.';";
-$trans["checkoutErr5"]            = "\$text='Bibliography with barcode number %barcode% is currently on hold for another member.';";
-$trans["checkoutErr6"]            = "\$text='Member has reached the checkout limit for the specified bibliography\'s material type.';";
-$trans["checkoutErr7"]            = "\$text='Bibliography with barcode number %barcode% has reached the member\'s renewal limit.';";
-$trans["checkoutErr8"]            = "\$text='Bibliography with barcode number %barcode% can not be renew as it is already late.';";
+$trans["checkoutBalErr"]          = "\$text='会员借书前必须结清未结平帐目。';";
+$trans["checkoutErr1"]            = "\$text='条形码必须是全由字母和数字构成。';";
+$trans["checkoutErr2"]            = "\$text='没有找到此条形码著作。';";
+$trans["checkoutErr3"]            = "\$text='条形码为 %barcode% 的著作已借出。';";
+$trans["checkoutErr4"]            = "\$text='条形码为 %barcode% 的著作不可借。';";
+$trans["checkoutErr5"]            = "\$text='条形码为 %barcode% 的著作已保留给其他会员。';";
+$trans["checkoutErr6"]            = "\$text='会员已达到指定馆藏著作类型借书数量上限。';";
+$trans["checkoutErr7"]            = "\$text='条形码为 %barcode% 的著作已经达到会员续借上限。';";
+$trans["checkoutErr8"]            = "\$text='条形码为 %barcode% 的著作已超期，无法续借。';";
 
 #****************************************************************************
 #*  Translation text for page shelving_cart.php
 #****************************************************************************
-$trans["shelvingCartErr1"]        = "\$text='Barcode number must be all alphanumeric.';";
-$trans["shelvingCartErr2"]        = "\$text='No bibliography was found with that barcode number.';";
-$trans["shelvingCartTrans"]       = "\$text='Late fee (barcode=%barcode%)';";
+$trans["shelvingCartErr1"]        = "\$text='条形码必须是全由字母和数字构成。';";
+$trans["shelvingCartErr2"]        = "\$text='没有找到符合要求条形码的著作。';";
+$trans["shelvingCartTrans"]       = "\$text='超期费用（条形码=%barcode%）';";
 
 #****************************************************************************
 #*  Translation text for page checkin_form.php
 #****************************************************************************
-$trans["checkinFormHdr1"]         = "\$text='Bibliography Check In:';";
-$trans["checkinFormBarcode"]      = "\$text='Barcode Number:';";
-$trans["checkinFormShelveButton"] = "\$text='Add to Shelving Cart';";
-$trans["checkinFormCheckinLink1"] = "\$text='Check in selected items';";
-$trans["checkinFormCheckinLink2"] = "\$text='Check in all items';";
-$trans["checkinFormHdr2"]         = "\$text='Current Shelving Cart List:';";
-$trans["checkinFormColHdr1"]      = "\$text='Date Scanned';";
-$trans["checkinFormColHdr2"]      = "\$text='Barcode';";
-$trans["checkinFormColHdr3"]      = "\$text='Title';";
-$trans["checkinFormColHdr4"]      = "\$text='Author';";
-$trans["checkinFormEmptyCart"]    = "\$text='No bibliographies are currently in shelving cart status.';";
+$trans["checkinFormHdr1"]         = "\$text='还书：';";
+$trans["checkinFormBarcode"]      = "\$text='条形码：';";
+$trans["checkinFormShelveButton"] = "\$text='加入书架车';";
+$trans["checkinFormCheckinLink1"] = "\$text='还回已选择著作';";
+$trans["checkinFormCheckinLink2"] = "\$text='还回所有著作';";
+$trans["checkinFormHdr2"]         = "\$text='当前书架车列表：';";
+$trans["checkinFormColHdr1"]      = "\$text='日期已扫描';";
+$trans["checkinFormColHdr2"]      = "\$text='条形码';";
+$trans["checkinFormColHdr3"]      = "\$text='书名';";
+$trans["checkinFormColHdr4"]      = "\$text='作者';";
+$trans["checkinFormEmptyCart"]    = "\$text='当前没有著作处于书架车状态。';";
 
 #****************************************************************************
 #*  Translation text for page checkin.php
 #****************************************************************************
-$trans["checkinErr1"]             = "\$text='No items have been selected.';";
+$trans["checkinErr1"]             = "\$text='没有选择著作。';";
 
 #****************************************************************************
 #*  Translation text for page hold_message.php
 #****************************************************************************
-$trans["holdMessageHdr"]          = "\$text='Bibliography Has Been Placed On Hold!';";
-$trans["holdMessageMsg1"]         = "\$text='The bibliography with barcode number %barcode% that you are attempting to check in has one or more hold requests placed on it.  <b>Please file this bibliography with your held items instead of placing it on your shelving cart.</b>  The status code for this bibliography has been set to hold.';";
-$trans["holdMessageMsg2"]         = "\$text='Return to bibliography check in.';";
+$trans["holdMessageHdr"]          = "\$text='著作已保留给借阅请求！';";
+$trans["holdMessageMsg1"]         = "\$text='您正要还回的条形码为 %barcode% 的著作有一个或多个借阅请求。<b>请此有借阅请求的著作归档，不要放入书架车。</b> 此著作的状态码已设置为”保留给借阅请求“。';";
+$trans["holdMessageMsg2"]         = "\$text='返回还书。';";
 
 #****************************************************************************
 #*  Translation text for page place_hold.php
 #****************************************************************************
-$trans["placeHoldErr1"]           = "\$text='Barcode number must be numeric.';";
-$trans["placeHoldErr2"]           = "\$text='Barcode does not exist.';";
-$trans["placeHoldErr3"]           = "\$text='This member already has that item checked out -- not placing hold.';";
+$trans["placeHoldErr1"]           = "\$text='条形码必须由数字构成。';";
+$trans["placeHoldErr2"]           = "\$text='条形码不存在。';";
+$trans["placeHoldErr3"]           = "\$text='此会员已经借出这一著作，不会保留借阅请求。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_del_confirm.php
 #****************************************************************************
-$trans["mbrDelConfirmWarn"]       = "\$text = 'Member, %name%, has %checkoutCount% checkout(s) and %holdCount% hold request(s).  All checked out materials must be checked in and all hold requests deleted before deleting this member.';";
-$trans["mbrDelConfirmReturn"]     = "\$text = 'return to member information';";
-$trans["mbrDelConfirmMsg"]        = "\$text = 'Are you sure you want to delete the member, %name%?  This will also delete all checkout history for this member.';";
+$trans["mbrDelConfirmWarn"]       = "\$text = '会员 %name% 有 %checkoutCount% 个借出和 %holdCount% 借阅请求。删除此会员前需要还回所有所有借出馆藏著作并删除所有借阅请求。';";
+$trans["mbrDelConfirmReturn"]     = "\$text = '返回会员信息';";
+$trans["mbrDelConfirmMsg"]        = "\$text = '确认想删除此会员  %name%？这同时会删除此会员的所有借出历史。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_del.php
 #****************************************************************************
-$trans["mbrDelSuccess"]           = "\$text='Member, %name%, has been deleted.';";
-$trans["mbrDelReturn"]            = "\$text='return to Member Search';";
+$trans["mbrDelSuccess"]           = "\$text='会员 %name% 已删除。';";
+$trans["mbrDelReturn"]            = "\$text='返回会员搜索';";
 
 #****************************************************************************
 #*  Translation text for page mbr_history.php
 #****************************************************************************
-$trans["mbrHistoryHead1"]         = "\$text='Member Checkout History:';";
-$trans["mbrHistoryNoHist"]        = "\$text='No history was found.';";
-$trans["mbrHistoryHdr1"]          = "\$text='Barcode';";
-$trans["mbrHistoryHdr2"]          = "\$text='Title';";
-$trans["mbrHistoryHdr3"]          = "\$text='Author';";
-$trans["mbrHistoryHdr4"]          = "\$text='New Status';";
-$trans["mbrHistoryHdr5"]          = "\$text='Date of Status Change';";
-$trans["mbrHistoryHdr6"]          = "\$text='Due Back Date';";
+$trans["mbrHistoryHead1"]         = "\$text='会员借出历史：';";
+$trans["mbrHistoryNoHist"]        = "\$text='没有借出历史。';";
+$trans["mbrHistoryHdr1"]          = "\$text='条形码';";
+$trans["mbrHistoryHdr2"]          = "\$text='书名';";
+$trans["mbrHistoryHdr3"]          = "\$text='作者';";
+$trans["mbrHistoryHdr4"]          = "\$text='新状态';";
+$trans["mbrHistoryHdr5"]          = "\$text='状态变更日期';";
+$trans["mbrHistoryHdr6"]          = "\$text='还书日期';";
 
 #****************************************************************************
 #*  Translation text for page mbr_account.php
 #****************************************************************************
-$trans["mbrAccountLabel"]         = "\$text='Add a Transaction:';";
-$trans["mbrAccountTransTyp"]      = "\$text='Transaction Type:';";
-$trans["mbrAccountAmount"]        = "\$text='Amount:';";
-$trans["mbrAccountDesc"]          = "\$text='Description:';";
-$trans["mbrAccountHead1"]         = "\$text='Member Account Transactions:';";
-$trans["mbrAccountNoTrans"]       = "\$text='No transactions found.';";
-$trans["mbrAccountOpenBal"]       = "\$text='Opening Balance';";
-$trans["mbrAccountDel"]           = "\$text='del';";
-$trans["mbrAccountHdr1"]          = "\$text='Function';";
-$trans["mbrAccountHdr2"]          = "\$text='Date';";
-$trans["mbrAccountHdr3"]          = "\$text='Trans Type';";
-$trans["mbrAccountHdr4"]          = "\$text='Description';";
-$trans["mbrAccountHdr5"]          = "\$text='Amount';";
-$trans["mbrAccountHdr6"]          = "\$text='Balance';";
+$trans["mbrAccountLabel"]         = "\$text='添加一个交易事项：';";
+$trans["mbrAccountTransTyp"]      = "\$text='交易事项类型：';";
+$trans["mbrAccountAmount"]        = "\$text='数量：';";
+$trans["mbrAccountDesc"]          = "\$text='说明：';";
+$trans["mbrAccountHead1"]         = "\$text='会员帐目事项：';";
+$trans["mbrAccountNoTrans"]       = "\$text='没有交易事项。';";
+$trans["mbrAccountOpenBal"]       = "\$text='期初余额';";
+$trans["mbrAccountDel"]           = "\$text='删除';";
+$trans["mbrAccountHdr1"]          = "\$text='功能';";
+$trans["mbrAccountHdr2"]          = "\$text='日期';";
+$trans["mbrAccountHdr3"]          = "\$text='交易事项类型';";
+$trans["mbrAccountHdr4"]          = "\$text='说明';";
+$trans["mbrAccountHdr5"]          = "\$text='数量';";
+$trans["mbrAccountHdr6"]          = "\$text='余额';";
 
 #****************************************************************************
 #*  Translation text for page mbr_transaction.php
 #****************************************************************************
-$trans["mbrTransactionSuccess"]   = "\$text='Transaction successfully completed.';";
+$trans["mbrTransactionSuccess"]   = "\$text='交易事项成功完成。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_transaction_del_confirm.php
 #****************************************************************************
-$trans["mbrTransDelConfirmMsg"]   = "\$text='Are you sure you want to delete this transaction?';";
+$trans["mbrTransDelConfirmMsg"]   = "\$text='确认想删除此交易事项？';";
 
 #****************************************************************************
 #*  Translation text for page mbr_transaction_del.php
 #****************************************************************************
-$trans["mbrTransactionDelSuccess"] = "\$text='Transaction successfully deleted.';";
+$trans["mbrTransactionDelSuccess"] = "\$text='交易事项已成功删除。';";
 
 #****************************************************************************
 #*  Translation text for page mbr_print_checkouts.php
 #****************************************************************************
-$trans["mbrPrintCheckoutsTitle"]  = "\$text='Checkouts for %mbrName%';";
-$trans["mbrPrintCheckoutsHdr1"]   = "\$text='Current Date:';";
-$trans["mbrPrintCheckoutsHdr2"]   = "\$text='Member:';";
-$trans["mbrPrintCheckoutsHdr3"]   = "\$text='Card Number:';";
-$trans["mbrPrintCheckoutsHdr4"]   = "\$text='Classification:';";
-$trans["mbrPrintCloseWindow"]     = "\$text='Close Window';";
+$trans["mbrPrintCheckoutsTitle"]  = "\$text='会员 %mbrName% 借出情况';";
+$trans["mbrPrintCheckoutsHdr1"]   = "\$text='但前日期：';";
+$trans["mbrPrintCheckoutsHdr2"]   = "\$text='会员：';";
+$trans["mbrPrintCheckoutsHdr3"]   = "\$text='卡号：';";
+$trans["mbrPrintCheckoutsHdr4"]   = "\$text='会员类型：';";
+$trans["mbrPrintCloseWindow"]     = "\$text='关闭窗口';";
 
 ?>

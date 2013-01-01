@@ -16,7 +16,7 @@ Files under `zh_CN`:
 
 * `zh_CN/admin.php`: __DONE__
 * `zh_CN/cataloging.php`: __DONE__
-* `zh_CN/circulation.php`: TODO
+* `zh_CN/circulation.php`: __DONE__
 * `zh_CN/classes.php`: TODO
 * `zh_CN/home.php`: __DONE__
 * `zh_CN/metadata.php`: __DONE__
