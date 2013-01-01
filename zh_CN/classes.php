@@ -37,142 +37,142 @@
 #****************************************************************************
 #*  Translation text for class Biblio
 #****************************************************************************
-$trans["biblioError1"]            = "\$text = 'Call number is required.';";
+$trans["biblioError1"]            = "\$text = '需要有编目号码。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioField
 #****************************************************************************
-$trans["biblioFieldError1"]       = "\$text = 'Field is required.';";
-$trans["biblioFieldError2"]       = "\$text = 'Tag must be numeric.';";
+$trans["biblioFieldError1"]       = "\$text = '需要有字段。';";
+$trans["biblioFieldError2"]       = "\$text = '标签必须由数字构成。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioQuery
 #****************************************************************************
-$trans["biblioQueryQueryErr1"]    = "\$text = 'Error accessing bibliography information.';";
-$trans["biblioQueryQueryErr2"]    = "\$text = 'Error accessing bibliography field information.';";
-$trans["biblioQueryInsertErr1"]   = "\$text = 'Error inserting new bibliography information.';";
-$trans["biblioQueryInsertErr2"]   = "\$text = 'Error inserting new bibliography field information.';";
-$trans["biblioQueryUpdateErr1"]   = "\$text = 'Error updating bibliography information.';";
-$trans["biblioQueryUpdateErr2"]   = "\$text = 'Error clearing bibliography field information for update.';";
-$trans["biblioQueryDeleteErr"]    = "\$text = 'Error deleting bibliography information.';";
+$trans["biblioQueryQueryErr1"]    = "\$text = '访问著作信息错误。';";
+$trans["biblioQueryQueryErr2"]    = "\$text = '访问著作字段信息粗无。';";
+$trans["biblioQueryInsertErr1"]   = "\$text = '插入新加著作信息错误。';";
+$trans["biblioQueryInsertErr2"]   = "\$text = '插入新著作字段信息错误。';";
+$trans["biblioQueryUpdateErr1"]   = "\$text = '更新著作信息错误。';";
+$trans["biblioQueryUpdateErr2"]   = "\$text = '更新时清除著作字段信息错误。';";
+$trans["biblioQueryDeleteErr"]    = "\$text = '删除著作信息错误。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioSearchQuery
 #****************************************************************************
-$trans["biblioSearchQueryErr1"]   = "\$text = 'Error counting bibliography search results.';";
-$trans["biblioSearchQueryErr2"]   = "\$text = 'Error searching bibliography information.';";
-$trans["biblioSearchQueryErr3"]   = "\$text = 'Error reading bibliography information.';";
+$trans["biblioSearchQueryErr1"]   = "\$text = '计算著作搜索结果错误。';";
+$trans["biblioSearchQueryErr2"]   = "\$text = '搜索著作信息错误。';";
+$trans["biblioSearchQueryErr3"]   = "\$text = '读取著作信息错误。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioCopy
 #****************************************************************************
-$trans["biblioCopyError1"]        = "\$text = 'Barcode number is required.';";
-$trans["biblioCopyError2"]        = "\$text = 'Invalid characters in barcode number.';";
+$trans["biblioCopyError1"]        = "\$text = '需要有条形码。';";
+$trans["biblioCopyError2"]        = "\$text = '条形码中含有无效字符。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioCopyQuery
 #****************************************************************************
-$trans["biblioCopyQueryErr1"]     = "\$text = 'Error checking for dup barcode.';";
-$trans["biblioCopyQueryErr2"]     = "\$text = 'Barcode number %barcodeNmbr% is already in use.';";
-$trans["biblioCopyQueryErr3"]     = "\$text = 'Error inserting new bibliography copy information.';";
-$trans["biblioCopyQueryErr4"]     = "\$text = 'Error accessing bibliography copy information.';";
-$trans["biblioCopyQueryErr5"]     = "\$text = 'Error updating bibliography copy information.';";
-$trans["biblioCopyQueryErr6"]     = "\$text = 'Error deleting bibliography information.';";
-$trans["biblioCopyQueryErr7"]     = "\$text = 'Error accessing bibliography information to get collection code.';";
-$trans["biblioCopyQueryErr8"]     = "\$text = 'Error accessing collection information to check days due back.';";
-$trans["biblioCopyQueryErr9"]     = "\$text = 'Error occurred checking copies in';";
-$trans["biblioCopyQueryErr10"]    = "\$text = 'Error occurred checking checkout limits';";
-$trans["biblioCopyQueryErr11"]    = "\$text = 'Error fetching highest copyid.';";
+$trans["biblioCopyQueryErr1"]     = "\$text = '检查重复条形码错误。';";
+$trans["biblioCopyQueryErr2"]     = "\$text = '条形码 %barcodeNmbr% 已被使用。';";
+$trans["biblioCopyQueryErr3"]     = "\$text = '插入新著作副本信息错误。';";
+$trans["biblioCopyQueryErr4"]     = "\$text = '访问著作副本信息错误。';";
+$trans["biblioCopyQueryErr5"]     = "\$text = '更新著作副本信息错误。';";
+$trans["biblioCopyQueryErr6"]     = "\$text = '删除著作副本信息错误。';";
+$trans["biblioCopyQueryErr7"]     = "\$text = '访问著作信息以获取作品集码错误。';";
+$trans["biblioCopyQueryErr8"]     = "\$text = '访问作品集信息以检查还书天数错误。';";
+$trans["biblioCopyQueryErr9"]     = "\$text = '检查以下著作副本时发生错误：';";
+$trans["biblioCopyQueryErr10"]    = "\$text = '检查借出上限时发生错误';";
+$trans["biblioCopyQueryErr11"]    = "\$text = '获取最高副本ID错误。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioFieldQuery
 #****************************************************************************
-$trans["biblioFieldQueryErr1"]    = "\$text = 'Error reading for a bibliography field.';";
-$trans["biblioFieldQueryErr2"]    = "\$text = 'Error reading bibliography fields.';";
-$trans["biblioFieldQueryInsertErr"] = "\$text = 'Error inserting new bibliography field.';";
-$trans["biblioFieldQueryUpdateErr"] = "\$text = 'Error updating bibliography field.';";
-$trans["biblioFieldQueryDeleteErr"] = "\$text = 'Error deleting bibliography field.';";
+$trans["biblioFieldQueryErr1"]    = "\$text = '读取著作字段错误。';";
+$trans["biblioFieldQueryErr2"]    = "\$text = '读取著作字段错误。';";
+$trans["biblioFieldQueryInsertErr"] = "\$text = '插入新著作字段信息错误。';";
+$trans["biblioFieldQueryUpdateErr"] = "\$text = '更新著作字段错误。';";
+$trans["biblioFieldQueryDeleteErr"] = "\$text = '删除著作字段错误。';";
 
 #****************************************************************************
 #*  Translation text for class UsmarcBlockDmQuery
 #****************************************************************************
-$trans["usmarcBlockDmQueryErr1"]  = "\$text = 'Error accessing the marc block data.';";
+$trans["usmarcBlockDmQueryErr1"]  = "\$text = '访问MARC块数据错误。';";
 
 #****************************************************************************
 #*  Translation text for class UsmarcTagDmQuery
 #****************************************************************************
-$trans["usmarcTagDmQueryErr1"]    = "\$text = 'Error accessing the marc tag data.';";
+$trans["usmarcTagDmQueryErr1"]    = "\$text = '访问MARC标签数据错误。';";
 
 #****************************************************************************
 #*  Translation text for class UsmarcSubfieldDmQuery
 #****************************************************************************
-$trans["usmarcSubfldDmQueryErr1"] = "\$text = 'Error accessing the marc subfield data.';";
+$trans["usmarcSubfldDmQueryErr1"] = "\$text = '访问MARC子字段数据错误。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioHoldQuery
 #****************************************************************************
-$trans["biblioHoldQueryErr1"]     = "\$text = 'Error accessing hold data by bibliography id.';";
-$trans["biblioHoldQueryErr2"]     = "\$text = 'Error accessing hold data by member id.';";
-$trans["biblioHoldQueryErr3"]     = "\$text = 'Error getting bibid and copyid for placing hold.';";
-$trans["biblioHoldQueryErr4"]     = "\$text = 'Error inserting hold data.';";
-$trans["biblioHoldQueryErr5"]     = "\$text = 'Error deleting hold data.';";
-$trans["biblioHoldQueryErr6"]     = "\$text = 'Error getting first hold member for a copy.';";
+$trans["biblioHoldQueryErr1"]     = "\$text = '按著作ID访问借阅请求数据错误。';";
+$trans["biblioHoldQueryErr2"]     = "\$text = '按会员ID访问借阅请求数据错误。';";
+$trans["biblioHoldQueryErr3"]     = "\$text = '获取已保留给借阅请求的著作ID和副本ID错误。';";
+$trans["biblioHoldQueryErr4"]     = "\$text = '插入借阅请求数据错误。';";
+$trans["biblioHoldQueryErr5"]     = "\$text = '删除借阅请求数据错误。';";
+$trans["biblioHoldQueryErr6"]     = "\$text = '获取副本的第一个借阅请求会员错误。';";
 
 #****************************************************************************
 #*  Translation text for class ReportQuery
 #****************************************************************************
-$trans["reportQueryErr1"]         = "\$text = 'Error running report.';";
+$trans["reportQueryErr1"]         = "\$text = '运行报告错误。';";
 
 #****************************************************************************
 #*  Translation text for class ReportCriteria
 #****************************************************************************
-$trans["reportCriteriaErr1"]      = "\$text = 'Non numeric value is not valid with numeric column.';";
-$trans["reportCriteriaDateTimeErr"] = "\$text = 'Invalid datetime format.';";
-$trans["reportCriteriaDateErr"]   = "\$text = 'Invalid date format.';";
+$trans["reportCriteriaErr1"]      = "\$text = '数字列中出现非数字值是无效的。';";
+$trans["reportCriteriaDateTimeErr"] = "\$text = '无效的日期时间格式。';";
+$trans["reportCriteriaDateErr"]   = "\$text = '无效的日期格式。';";
 
 #****************************************************************************
 #*  Translation text for class LabelFormat and LetterFormat
 #****************************************************************************
-$trans["labelFormatFontErr"]      = "\$text = 'Invalid font type specified in label definition xml.  Valid font types are Courier, Helvetica, and Times-Roman.';";
-$trans["labelFormatFontSizeErr"]  = "\$text = 'Invalid font size specified in label definition xml.  Font size must be numeric.';";
-$trans["labelFormatFontSizeErr2"] = "\$text = 'Invalid font size specified in label definition xml.  Font size must be greater than zero.';";
-$trans["labelFormatLMarginErr"]   = "\$text = 'Invalid left margin specified in label definition xml.  Left margin must be numeric.';";
-$trans["labelFormatLMarginErr2"]  = "\$text = 'Invalid left margin specified in label definition xml.  Left margin must be greater than zero.';";
-$trans["labelFormatRMarginErr"]   = "\$text = 'Invalid right margin specified in label definition xml.  Right margin must be numeric.';";
-$trans["labelFormatRMarginErr2"]  = "\$text = 'Invalid right margin specified in label definition xml.  Right margin must be greater than zero.';";
-$trans["labelFormatTMarginErr"]   = "\$text = 'Invalid top margin specified in label definition xml.  Top margin must be numeric.';";
-$trans["labelFormatTMarginErr2"]  = "\$text = 'Invalid top margin specified in label definition xml.  Top margin must be greater than zero.';";
-$trans["labelFormatBMarginErr"]   = "\$text = 'Invalid bottom margin specified in label definition xml.  Bottom margin must be numeric.';";
-$trans["labelFormatBMarginErr2"]  = "\$text = 'Invalid bottom margin specified in label definition xml.  Bottom margin must be greater than zero.';";
-$trans["labelFormatColErr"]       = "\$text = 'Invalid columns specified in label definition xml.  Columns must be numeric.';";
-$trans["labelFormatColErr2"]      = "\$text = 'Invalid columns specified in label definition xml.  Columns must be greater than zero.';";
-$trans["labelFormatWidthErr"]     = "\$text = 'Invalid width specified in label definition xml.  Width must be numeric.';";
-$trans["labelFormatWidthErr2"]    = "\$text = 'Invalid width specified in label definition xml.  Width must be greater than zero.';";
-$trans["labelFormatHeightErr"]    = "\$text = 'Invalid height specified in label definition xml.  Height must be numeric.';";
-$trans["labelFormatHeightErr2"]   = "\$text = 'Invalid height specified in label definition xml.  Height must be greater than zero.';";
-$trans["labelFormatNoLabelsErr"]  = "\$text = 'Invalid label lines specified in label definition xml.';";
+$trans["labelFormatFontErr"]      = "\$text = '标识签定义XML中指定的字体类型无效。有效字体类型包括：Courier，Helvetica，和Times-Roman。';";
+$trans["labelFormatFontSizeErr"]  = "\$text = '标识签定义XML中指定的字号无效。字号值必须是数字。';";
+$trans["labelFormatFontSizeErr2"] = "\$text = '标识签定义XML中指定的字号无效。字号值必须大于0。';";
+$trans["labelFormatLMarginErr"]   = "\$text = '标识签定义XML中指定的左边距无效。左边距值必须是数字。';";
+$trans["labelFormatLMarginErr2"]  = "\$text = '标识签定义XML中指定的左边距无效。左边距值必须大于0。';";
+$trans["labelFormatRMarginErr"]   = "\$text = '标识签定义XML中指定的右边距无效。右边距值必须是数字。';";
+$trans["labelFormatRMarginErr2"]  = "\$text = '标识签定义XML中指定的右边距无效。右边距值必须大于0。';";
+$trans["labelFormatTMarginErr"]   = "\$text = '标识签定义XML中指定的上边距无效。上边距值必须是数字。';";
+$trans["labelFormatTMarginErr2"]  = "\$text = '标识签定义XML中指定的上边距无效。上边距值必须大于0。';";
+$trans["labelFormatBMarginErr"]   = "\$text = '标识签定义XML中指定的下边距无效。下边距值必须是数字。';";
+$trans["labelFormatBMarginErr2"]  = "\$text = '标识签定义XML中指定的下边距无效。下边距值必须大于0。';";
+$trans["labelFormatColErr"]       = "\$text = '标识签定义XML中指定的列无效。列值必须是数字。';";
+$trans["labelFormatColErr2"]      = "\$text = '标识签定义XML中指定的列无效。列值必须大于0。';";
+$trans["labelFormatWidthErr"]     = "\$text = '标识签定义XML中指定的宽度无效。宽度值必须是数字。';";
+$trans["labelFormatWidthErr2"]    = "\$text = '标识签定义XML中指定的宽度无效。宽度值必须大于0。';";
+$trans["labelFormatHeightErr"]    = "\$text = '标识签定义XML中指定的高度无效。高度值必须是数字。';";
+$trans["labelFormatHeightErr2"]   = "\$text = '标识签定义XML中指定的高度无效。高度值必须大于0。';";
+$trans["labelFormatNoLabelsErr"]  = "\$text = '标识签定义XML中指定的标识签行无效。';";
 
 #****************************************************************************
 #*  Translation text for class BiblioStatusHistQuery
 #****************************************************************************
-$trans["biblioStatusHistQueryErr1"] = "\$text = 'Error getting bibliography status history by bibliography id.';";
-$trans["biblioStatusHistQueryErr2"] = "\$text = 'Error getting bibliography status history by member id';";
-$trans["biblioStatusHistQueryErr3"] = "\$text = 'Error inserting bibliography status history';";
-$trans["biblioStatusHistQueryErr4"] = "\$text = 'Error deleting bibliography status history by copy id';";
-$trans["biblioStatusHistQueryErr5"] = "\$text = 'Error deleting bibliography status history by member id';";
+$trans["biblioStatusHistQueryErr1"] = "\$text = '按著作ID获取著作状态历史错误。';";
+$trans["biblioStatusHistQueryErr2"] = "\$text = '按会员ID获取著作状态历史错误';";
+$trans["biblioStatusHistQueryErr3"] = "\$text = '插入著作状态历史错误';";
+$trans["biblioStatusHistQueryErr4"] = "\$text = '按副本ID删除著作状态历史错误';";
+$trans["biblioStatusHistQueryErr5"] = "\$text = '按会员ID删除著作状态历史错误';";
 
 #****************************************************************************
 #*  Translation text for class MemberAccountTransaction
 #****************************************************************************
-$trans["memberAccountTransError1"]  = "\$text = 'Amount is required.';";
-$trans["memberAccountTransError2"]  = "\$text = 'Amount must be numeric.';";
-$trans["memberAccountTransError3"]  = "\$text = 'Description is required.';";
+$trans["memberAccountTransError1"]  = "\$text = '需要有数量。';";
+$trans["memberAccountTransError2"]  = "\$text = '数量必须由数字构成。';";
+$trans["memberAccountTransError3"]  = "\$text = '需要有说明。';";
 
 #****************************************************************************
 #*  Translation text for class MemberAccountQuery
 #****************************************************************************
-$trans["memberAccountQueryErr1"]    = "\$text = 'Error accessing member account information.';";
-$trans["memberAccountQueryErr2"]    = "\$text = 'Error inserting member account information.';";
-$trans["memberAccountQueryErr3"]    = "\$text = 'Error deleting member account information.';";
+$trans["memberAccountQueryErr1"]    = "\$text = '访问会员帐目信息错误。';";
+$trans["memberAccountQueryErr2"]    = "\$text = '插入会员帐目信息错误。';";
+$trans["memberAccountQueryErr3"]    = "\$text = '删除会员帐目信息错误。';";
 
 ?>
