@@ -42,24 +42,6 @@ The following list shows the progress for translations of each file under locale
 * `zh_CN/help/opacLookup.php`: __DONE__
 * `zh_CN/help/opac.php`: __DONE__
 * `zh_CN/help/status.php`: __DONE__
-* `zh_CN/sql/0.7.1/domain/biblio_status_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/checkout_privs.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/collection_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/material_type_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/mbr_classify_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/member_fields_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/settings.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/staff.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/theme.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/transaction_type_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/usmarc_block_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/usmarc_indicator_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/usmarc_subfield_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/domain/usmarc_tag_dm.sql`: TODO
-* `zh_CN/sql/0.7.1/sample/biblio_copy.sql`: TODO
-* `zh_CN/sql/0.7.1/sample/biblio.sql`: TODO
-* `zh_CN/sql/0.7.1/sample/member_fields.sql`: TODO
-* `zh_CN/sql/0.7.1/sample/member.sql`: TODO
 
 ## Relative Sites
 
